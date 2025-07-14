@@ -55,4 +55,12 @@ Before we begin, you'll need to access the terminal (command line interface) on 
 Once you have the terminal open, you're ready to start using Git commands.
 
 
+# Here Are The Lessons
+
+1. [Learn Git](https://github.com/DrVicki/git_github_training/blob/main/Git.md)
+2. [Learn GitHub](https://github.com/DrVicki/git_github_training/blob/main/GitHub.md)
+
+# Assignment
+
+
 
