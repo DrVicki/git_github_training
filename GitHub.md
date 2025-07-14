@@ -42,14 +42,14 @@ https://github.com/username/repository-name.git
 
 7. Fork a Repository
 
-1. On GitHub, navigate to the repository you want to fork
-2. Click the "Fork" button in the top-right corner
+- On GitHub, navigate to the repository you want to fork
+- Click the "Fork" button in the top-right corner
 
-8. Creating Pull Requests
+8. Create Pull Requests
 
-1. Make changes in your forked repository
-2. Go to the original repository on GitHub
-3. Click "New pull request"
-4. Select your fork and branch
-5. Add a title and description
-6. Click "Create pull request"
+- Make changes in your forked repository
+- Go to the original repository on GitHub
+- Click "New pull request"
+- Select your fork and branch
+- Add a title and description
+- Click "Create pull request"
