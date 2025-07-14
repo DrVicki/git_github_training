@@ -15,20 +15,20 @@ By the end of this 50-minute experience, students will:
 
 Git and GitHub are essential tools for modern software development. Here's why they're crucial for tech students:
 
-1. Version Control: Git allows you to track changes in your code over time. This is invaluable for:
+1. **Version Control**: Git allows you to track changes in your code over time. This is invaluable for:
    - Recovering previous versions if something goes wrong
    - Collaborating with others without overwriting each other's work
    - Experimenting with new features without risking the main codebase
 
-2. Portfolio Building: GitHub serves as a showcase for your projects, acting as a "code resume" for potential employers.
+2. **Portfolio Building**: GitHub serves as a showcase for your projects, acting as a "code resume" for potential employers.
 
-3. Collaboration: GitHub facilitates teamwork, a critical skill in the tech industry. It allows multiple developers to work on the same project simultaneously.
+3. **Collaboration**: GitHub facilitates teamwork, a critical skill in the tech industry. It allows multiple developers to work on the same project simultaneously.
 
-4. Industry Standard: Nearly all tech companies use Git and GitHub or similar tools. Familiarity with these tools is often a job requirement.
+4. **Industry Standard**: Nearly all tech companies use Git and GitHub or similar tools. Familiarity with these tools is often a job requirement.
 
-5. Open Source Contribution: GitHub is the hub of open-source development, allowing you to contribute to real-world projects and build your reputation in the tech community.
+5. **Open Source Contribution**: GitHub is the hub of open-source development, allowing you to contribute to real-world projects and build your reputation in the tech community.
 
-6. Continuous Integration/Continuous Deployment (CI/CD): Many modern development practices rely on Git for automating testing and deployment processes.
+6. **Continuous Integration/Continuous Deployment (CI/CD)**: Many modern development practices rely on Git for automating testing and deployment processes.
 
 By mastering Git and GitHub, you're not just learning tools; you're adopting professional workflows that will serve you throughout your tech career.
 
@@ -36,31 +36,36 @@ By mastering Git and GitHub, you're not just learning tools; you're adopting pro
 
 ### Before we can actually begin learning Git and GitHub, I want to make certain everyone knows how to access their terminal, or Command Line, on their Laptop or Desktop.
 
-The terminal, or command line, is where you will type the code you will see in the Git and GitHub Lessons. 
+The **terminal**, or **command line**, is where you will type the code you will see in the Git and GitHub Lessons. 
 
-- So, now let's access your terminal before we proceed.
+- So, now let's access your **terminal** before we proceed.
 
 ## 0. Access the Terminal
 
-Before we begin, you'll need to access the terminal (command line interface) on your computer:
+Before we begin, you need to access the **terminal** (command line interface) on your computer:
 
-- For Windows: 
+- **For Windows**: 
   1. Press `Win + R` to open the Run dialog
   2. Type `cmd` and press Enter to open Command Prompt
   3. Alternatively, you can use PowerShell or Git Bash (installed with Git)
 
-- For macOS:
+- **For macOS**:
   1. Press `Cmd + Space` to open Spotlight Search
   2. Type `Terminal` and press Enter
 
-- For Linux:
+- **For Linux**:
   1. Press `Ctrl + Alt + T` to open the Terminal
-  2. Or search for "Terminal" in your applications menu
+  2. Or search for "**Terminal**" in your applications menu
 
-Once you have the terminal open, you're ready to start using Git commands.
+Once you have the **terminal** open, you're ready to start using Git commands.
 
 
 # Here Are The Hands-On Lessons and Assignment
+
+Ater you have discovered where your **terminal** is, and how to access it whenever you need it, you will start going through the lessons in order below, by clicking on the **Lesson** or **Assignment** Name.
+
+These are designed to be hands-0n, which means follow along with me and do everything I am doing in the instructions.
+- That is the only way you can learn **Git** and **GitHub**.
 
 1. [Learn Git](https://github.com/DrVicki/git_github_training/blob/main/Git.md)
 2. [Learn GitHub](https://github.com/DrVicki/git_github_training/blob/main/GitHub.md)
@@ -68,6 +73,8 @@ Once you have the terminal open, you're ready to start using Git commands.
 
 
 # Resources
+Below are additional resources in the form of **Cheatsheets**, which provide you a list of **Git and GitHub Commands** to accomplish what you need to do.
+
 
 ## [Git CheatSheet](https://github.com/DrVicki/git_github_training/blob/main/git_cheatsheet.md)
 ## [GitHub CheatSheet](https://github.com/DrVicki/git_github_training/blob/main/github_cheatsheet.md)
