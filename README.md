@@ -27,9 +27,15 @@ Git and GitHub are essential tools for modern software development. Here's why t
 
 By mastering Git and GitHub, you're not just learning tools; you're adopting professional workflows that will serve you throughout your tech career.
 
+# Let's Get Started!
 
+### Before we can actually begin learning Git and GitHub, I want to make certain everyone knows how to access their terminal, or Command Line, on their Laptop or Desktop.
 
-## 0. Accessing the Terminal
+The terminal, or command line, is where you will type the code you will see in the Git and GitHub Lessons. 
+
+- So, now let's access your terminal before we proceed.
+
+## 0. Access the Terminal
 
 Before we begin, you'll need to access the terminal (command line interface) on your computer:
 
