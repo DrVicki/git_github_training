@@ -67,4 +67,7 @@ Once you have the terminal open, you're ready to start using Git commands.
 3. [Assignment](https://github.com/DrVicki/git_github_training/blob/main/Assignment.md)
 
 
+# Resources
 
+## [Git CheatSheet](https://github.com/DrVicki/git_github_training/blob/main/git_cheatsheet.md)
+## [GitHub CheatSheet](https://github.com/DrVicki/git_github_training/blob/main/github_cheatsheet.md)
