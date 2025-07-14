@@ -1,6 +1,6 @@
 # Learn Git
 
-1. Install Git
+1. ## Install Git
 
 First, you need to install Git on your computer.
 
@@ -9,7 +9,7 @@ https://git-scm.com/download/win
 - For macOS: Install using Homebrew with `brew install git`
 - For Linux: Use your package manager, e.g., `sudo apt-get install git`
 
-2. Configure Git
+2. ## Configure Git
 
 After installation, configure your Git identity:
 
@@ -18,7 +18,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
-3. Create a Local Repository
+3. ## Create a Local Repository
 
 Let's create a new project and initialize a Git repository:
 
@@ -28,7 +28,7 @@ cd my_project
 git init
 ```
 
-4. Make Changes and Commit
+4. ## Make Changes and Commit
 
 Create a file and make your first commit:
 
@@ -38,7 +38,7 @@ git add README.md
 git commit -m "Initial commit: Add README"
 ```
 
-5. Viewing History
+5. ## Viewing History
 
 To see your commit history:
 
@@ -46,7 +46,7 @@ To see your commit history:
 git log
 ```
 
-6. Create Branches
+6. ## Create Branches
 
 Create and switch to a new branch:
 
@@ -61,7 +61,7 @@ Or use the shorthand:
 git checkout -b feature-branch
 ```
 
-7. Merge Branches
+7. ## Merge Branches
 
 After making changes in your feature branch, merge it back to main:
 
