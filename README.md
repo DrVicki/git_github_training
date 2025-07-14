@@ -1,3 +1,5 @@
+![](https://github.com/DrVicki/git_github_training/blob/main/images/git_v_github.png)
+
 # Introduction to Git and GitHub for College Students
 By: Dr. Vicki Bealman\
 Dr. Vicki Bealman | Professor, Faculty Chair\
