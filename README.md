@@ -48,7 +48,7 @@ Before we begin, you need to access the **terminal** (command line interface) on
   1. Press `Win + R` to open the Run dialog
   2. Type `cmd` and press Enter to open Command Prompt
   3. Alternatively, you can use PowerShell or Git Bash (installed with Git)
-![](hhttps://github.com/DrVicki/git_github_training/blob/main/images/windows_terminal.jpg)
+![](https://github.com/DrVicki/git_github_training/blob/main/images/windows_terminal.jpg)
 
 
 - **For macOS**:
