@@ -1,8 +1,33 @@
 # Introduction to Git and GitHub for College Students
 
-Git is a distributed version control system, and GitHub is a web-based platform that uses Git for version control. 
+## Experience Objectives
+By the end of this 50-minute experience, students will:
+1. Understand the importance of Git and GitHub for tech professionals
+2. Learn basic Git commands and concepts
+3. Create a GitHub account and practice basic GitHub operations
 
-This tutorial will guide you through the basics of using Git and GitHub.
+# Why Tech Students Need Git and GitHub
+
+Git and GitHub are essential tools for modern software development. Here's why they're crucial for tech students:
+
+1. Version Control: Git allows you to track changes in your code over time. This is invaluable for:
+   - Recovering previous versions if something goes wrong
+   - Collaborating with others without overwriting each other's work
+   - Experimenting with new features without risking the main codebase
+
+2. Portfolio Building: GitHub serves as a showcase for your projects, acting as a "code resume" for potential employers.
+
+3. Collaboration: GitHub facilitates teamwork, a critical skill in the tech industry. It allows multiple developers to work on the same project simultaneously.
+
+4. Industry Standard: Nearly all tech companies use Git and GitHub or similar tools. Familiarity with these tools is often a job requirement.
+
+5. Open Source Contribution: GitHub is the hub of open-source development, allowing you to contribute to real-world projects and build your reputation in the tech community.
+
+6. Continuous Integration/Continuous Deployment (CI/CD): Many modern development practices rely on Git for automating testing and deployment processes.
+
+By mastering Git and GitHub, you're not just learning tools; you're adopting professional workflows that will serve you throughout your tech career.
+
+
 
 ## 0. Accessing the Terminal
 
