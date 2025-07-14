@@ -68,9 +68,9 @@ Ater you have discovered where your **terminal** is, and how to access it whenev
 These are designed to be hands-0n, which means follow along with me and do everything I am doing in the instructions.
 - That is the only way you can learn **Git** and **GitHub**.
 
-1. [Learn Git](https://github.com/DrVicki/git_github_training/blob/main/Git.md)
-2. [Learn GitHub](https://github.com/DrVicki/git_github_training/blob/main/GitHub.md)
-3. [Assignment](https://github.com/DrVicki/git_github_training/blob/main/Assignment.md)
+1. ## [Learn Git](https://github.com/DrVicki/git_github_training/blob/main/Git.md)
+2. ## [Learn GitHub](https://github.com/DrVicki/git_github_training/blob/main/GitHub.md)
+3. ## [Assignment](https://github.com/DrVicki/git_github_training/blob/main/Assignment.md)
 
 
 # Resources
