@@ -59,8 +59,7 @@ Once you have the terminal open, you're ready to start using Git commands.
 
 1. [Learn Git](https://github.com/DrVicki/git_github_training/blob/main/Git.md)
 2. [Learn GitHub](https://github.com/DrVicki/git_github_training/blob/main/GitHub.md)
-
-# Assignment
+3. [Assignment](https://github.com/DrVicki/git_github_training/blob/main/Assignment.md)
 
 
 
