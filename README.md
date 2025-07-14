@@ -53,11 +53,10 @@ Before we begin, you need to access the **terminal** (command line interface) on
 
 - **For macOS**:
   1. Press `Cmd + Space` to open Spotlight Search
+  ![](https://github.com/DrVicki/git_github_training/blob/main/images/cmd_space.jpg)
   2. Type `Terminal` and press Enter
+  ![](https://github.com/DrVicki/git_github_training/blob/main/images/mac_terninal_open.jpg)
 
-- **For Linux**:
-  1. Press `Ctrl + Alt + T` to open the Terminal
-  2. Or search for "**Terminal**" in your applications menu
 
 Once you have the **terminal** open, you're ready to start using Git commands.
 
