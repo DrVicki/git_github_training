@@ -74,4 +74,4 @@ git merge feature-branch
 Fantastic!!!
 
 ### NOTE
-You maight want to practice this several times, using a differrent project directory name, until you feel comfortable and understand what is happening.
+You might want to practice this several times, using a differrent project directory name, until you feel comfortable and understand what is happening.
