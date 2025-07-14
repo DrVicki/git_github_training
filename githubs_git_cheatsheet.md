@@ -1,1 +1,1 @@
-[Git CheatSheet](https://github.com/DrVicki/git_github_training/blob/main/SWTM-2088_Atlassian-Git-Cheatsheet.pdf?short_path=f27d6e6)
+# [Git CheatSheet](https://drive.google.com/file/d/1dT-8DFCScpTiBfaraxgjYr1XInYt3x4-/view?usp=sharing)
