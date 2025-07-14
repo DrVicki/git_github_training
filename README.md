@@ -1,5 +1,5 @@
 # Introduction to Git and GitHub for College Students
-By: Dr. Vicki Bealman
+By: Dr. Vicki Bealman /br
 Dr. Vicki Bealman | Professor, Faculty Chair
 Co-Curriculars, Career Outcomes, and Outreach
 P 352.571.0432 | E Vicki.Bealman@devry.edu
