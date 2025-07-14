@@ -57,3 +57,10 @@ https://github.com/yourusername/collaborative-python-project.git
 This example demonstrates the basic workflow of collaborating on a project using Git and GitHub, including creating branches, making changes, pushing to GitHub, creating pull requests, and merging changes.
 
 ### Remember, practice is key to mastering Git and GitHub. Encourage students to experiment with these commands and workflows on their own projects or in group assignments.
+
+# SUBMISSION
+
+1. ## After you have completed the Assignment, and everything looks great on GitHub.com. copy the URL Address to your assignment repository.
+2. ## Paste the URL in the Canvas Assignment where indicated.
+
+# Now Celebrate!!!!
