@@ -48,6 +48,8 @@ Before we begin, you need to access the **terminal** (command line interface) on
   1. Press `Win + R` to open the Run dialog
   2. Type `cmd` and press Enter to open Command Prompt
   3. Alternatively, you can use PowerShell or Git Bash (installed with Git)
+[Windows Terminal](https://github.com/DrVicki/git_github_training/blob/main/win11_launch_windows_terminal.avif)
+
 
 - **For macOS**:
   1. Press `Cmd + Space` to open Spotlight Search
