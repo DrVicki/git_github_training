@@ -4,37 +4,37 @@
 
 1. ## Create a new repository on GitHub called "collaborative-python-project"
 
-2. ## Clone the repository locally:
+2. ## Clone the repository locally. ***From your terminal.***
 
 ``git clone https://github.com/yourusername/collaborative-python-project.git cd collaborative-python-project``
    
 
-3. ## Create a Python file:
+3. ## Create a Python file. ***From your terminal.***
    ```bash
    echo "def greet(name):
        return f'Hello, {name}!'" > greetings.py
    ```
 
-4. ## Add, commit, and push the file:
+4. ## Add, commit, and push the file. ***From your terminal.***
    ```bash
    git add greetings.py
    git commit -m "Add greet function"
    git push origin main
    ```
 
-5. ## Create a new branch for a feature:
+5. ## Create a new branch for a feature. ***From your terminal.***
    ```bash
    git checkout -b add-farewell-function
    ```
 
-6. ## Modify the Python file:
+6. ## Modify the Python file. ***From your terminal.***
    ```bash
    echo "
    def farewell(name):
        return f'Goodbye, {name}!'" >> greetings.py
    ```
 
-7. ## Commit and push the changes:
+7. ## Commit and push the changes. ***From your terminal.***
    ```bash
    git add greetings.py
    git commit -m "Add farewell function"
@@ -45,7 +45,7 @@
 
 9. ## Review the changes, and if everything looks good, merge the pull request
 
-10. ## Back in your local repository, on your machine, switch to the main branch and pull the changes:
+10. ## Back in your local repository, on your machine, switch to the main branch and pull the changes. ***From your terminal.***
     ```bash
     git checkout main
     git pull origin maingit add .
