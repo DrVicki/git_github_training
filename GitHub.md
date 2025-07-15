@@ -7,7 +7,7 @@
 
 3. ## Connect Local Repository to GitHub
 
-Link your local repository to the GitHub repository:
+Link your local repository to the GitHub repository. ***From your terminal.***
 
 ```bash
 git remote add origin
@@ -18,7 +18,7 @@ git push -u origin main
 
 4. ## Push Changes to GitHub
 
-After making local changes and committing, push to GitHub:
+After making local changes and committing, push to GitHub. ***From your terminal.***
 
 ```bash
 git push origin main
@@ -26,7 +26,7 @@ git push origin main
 
 5. ## Pull Changes from GitHub
 
-To get changes from GitHub:
+To get changes from GitHub. ***From your terminal.***
 
 ```bash
 git pull origin main
@@ -34,7 +34,7 @@ git pull origin main
 
 6. ## Clone a Repository
 
-To clone an existing GitHub repository:
+To clone an existing GitHub repository. ***From your terminal.***
 
 ```bash
 git clone
