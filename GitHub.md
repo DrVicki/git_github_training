@@ -2,6 +2,7 @@
 
 1. ## Create a GitHub account at
 [GitHub](https://github.com)
+
 2. ## Create a new repository on GitHub
 
 3. ## Connect Local Repository to GitHub
