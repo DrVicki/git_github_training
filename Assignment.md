@@ -6,9 +6,8 @@
 
 2. ## Clone the repository locally:
    ```bash
-git clone
-https://github.com/yourusername/collaborative-python-project.git
-   cd collaborative-python-project
+git clone https://github.com/yourusername/collaborative-python-project.git
+cd collaborative-python-project
    ```
 
 3. ## Create a Python file:
