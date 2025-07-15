@@ -77,3 +77,7 @@ Fantastic!!!
 
 ### NOTE
 You might want to practice this several times, using a differrent project directory name, until you feel comfortable and understand what is happening.
+
+# NEXT
+
+When ready, go to [GitHub.md](https://github.com/DrVicki/git_github_training/blob/main/GitHub.md)
