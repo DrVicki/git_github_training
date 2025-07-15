@@ -4,6 +4,8 @@
 
 First, you need to install Git on your computer.
 
+### Go to your terminal as learned in README.
+
 - For Windows: Download and install from
 https://git-scm.com/download/win
 - For macOS: Install using Homebrew with `brew install git`
