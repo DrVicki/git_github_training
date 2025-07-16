@@ -42,8 +42,6 @@ The **terminal**, or **command line**, is where you will type the code you will 
 
 - So, now let's access your **terminal** before we proceed.
 
-```<iframe width="560" height="315" src="https://www.youtube.com/embed/eB_cbz2etLg?si=F5bbmgu2eub5tSv2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>```
-
 ## 0. Access the Terminal
 
 Before we begin, you need to access the **terminal** (command line interface) on your computer:
