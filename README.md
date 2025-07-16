@@ -42,6 +42,8 @@ The **terminal**, or **command line**, is where you will type the code you will 
 
 - So, now let's access your **terminal** before we proceed.
 
+![](https://github.com/DrVicki/git_github_training/blob/main/videos/Git%20Lesson%200%20and%201.mp4)
+
 ## 0. Access the Terminal
 
 Before we begin, you need to access the **terminal** (command line interface) on your computer:
