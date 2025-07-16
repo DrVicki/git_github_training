@@ -40,6 +40,8 @@ By mastering Git and GitHub, you're not just learning tools; you're adopting pro
 
 The **terminal**, or **command line**, is where you will type the code you will see in the Git and GitHub Lessons. 
 
+## Lesson 0 and Lesson 1 Video 00:19:31
+
 [![Git and GitHub Lessons 0 and 1](https://i9.ytimg.com/vi/eB_cbz2etLg/mqdefault.jpg?v=6877afa3&sqp=CMDz3sMG&rs=AOn4CLACp9wrD3CUGmOTXuNMbw3khL_rHA)](https://youtu.be/eB_cbz2etLg?si=7zly8lIonD5p7sTu)
 
 
